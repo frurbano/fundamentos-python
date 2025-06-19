@@ -22,3 +22,5 @@ print(type(valor))
 
 mensaje1="cadena con tabulacion \t prueba \n salto"
 print(mensaje1)
+
+#----------------------
